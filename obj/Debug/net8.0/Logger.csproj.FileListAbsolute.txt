@@ -1,0 +1,14 @@
+C:\Users\logan\source\repos\Logger\bin\Debug\net8.0\Logger.exe
+C:\Users\logan\source\repos\Logger\bin\Debug\net8.0\Logger.deps.json
+C:\Users\logan\source\repos\Logger\bin\Debug\net8.0\Logger.runtimeconfig.json
+C:\Users\logan\source\repos\Logger\bin\Debug\net8.0\Logger.dll
+C:\Users\logan\source\repos\Logger\bin\Debug\net8.0\Logger.pdb
+C:\Users\logan\source\repos\Logger\obj\Debug\net8.0\Logger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logan\source\repos\Logger\obj\Debug\net8.0\Logger.AssemblyInfoInputs.cache
+C:\Users\logan\source\repos\Logger\obj\Debug\net8.0\Logger.AssemblyInfo.cs
+C:\Users\logan\source\repos\Logger\obj\Debug\net8.0\Logger.csproj.CoreCompileInputs.cache
+C:\Users\logan\source\repos\Logger\obj\Debug\net8.0\Logger.dll
+C:\Users\logan\source\repos\Logger\obj\Debug\net8.0\refint\Logger.dll
+C:\Users\logan\source\repos\Logger\obj\Debug\net8.0\Logger.pdb
+C:\Users\logan\source\repos\Logger\obj\Debug\net8.0\Logger.genruntimeconfig.cache
+C:\Users\logan\source\repos\Logger\obj\Debug\net8.0\ref\Logger.dll
